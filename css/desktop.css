@@ -1,0 +1,61 @@
+.info {
+    margin: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: none;
+    width: 100vw;
+}
+
+.info .info__text {
+    width: 328px;
+    padding: 30px auto;
+}
+
+.info .info__text p {
+    font-size: var(--medium);
+}
+
+.team {
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 1024px;
+}
+
+.team .player {
+    position: relative;
+    height: 300px;
+    width: 208px;
+    padding: 8px;
+    border-radius: 16px 0;
+    text-decoration: none;
+}
+
+
+.team .player:nth-child(odd),
+.team .player:nth-child(even) {
+    margin-top: 0px;
+}
+
+.team .player:nth-child(3n+1),
+.team .player:nth-child(3n+3) {
+    margin-top: -44px;
+}
+
+.team .player:nth-child(3n+2){
+    margin-top: 60px;
+}
+
+.team .player .player__photo {
+    width: 160px;
+    height: 232px;
+}
+
+.team .player .player__name {
+    font-size: var(--medium);
+}
+
+.team .player .player__rol {
+    font-size: var(--little);
+    right: -20px;
+}
+

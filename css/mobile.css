@@ -36,6 +36,7 @@ h1 {
     color: var(--white);
     width: 100vw;
     height: 100vh;
+    overflow-x: hidden;
 }
 
 .info {
@@ -50,7 +51,7 @@ h1 {
     align-items: center;
     justify-content: space-between;
     font-family: var(--poppins);
-    margin: 52px 0 20px;
+    margin: 38px 0;
 }
 
 .info .info__title h1 {
