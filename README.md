@@ -27,11 +27,11 @@
 ## Overview
 
 <figure>
-<img style="border: 1px solid black; border-radius: 10px" src="https://imgur.com/APUm0f3.jpg" alt="desktop" width="850"/>
+<img style="border: 1px solid black; border-radius: 10px" src="https://imgur.com/5VeD5v4.png" alt="desktop" width="850"/>
 <figcaption>Desktop view</figcaption>
 </figure>
 <figure>
-<img style="border: 1px solid black; border-radius: 10px" src="https://imgur.com/ngrTnMU.jpg" alt="mobile" width="210"/>
+<img style="border: 1px solid black; border-radius: 10px" src="https://imgur.com/ZKjoOjA.jpg" alt="mobile" width="210"/>
 <figcaption>Mobile view</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ I completed the  challenge with HTML and CSS only. This is the second challenge 
 
 ### Built With
 
-I just used [HTML](https://github.com/sigladon/404-not-found/blob/master/index.html) and [CSS](https://github.com/sigladon/404-not-found/tree/master/css)
+I just used [HTML](https://github.com/sigladon/team-page/blob/master/index.html) and [CSS](https://github.com/sigladon/team-page/tree/master/css)
 
 ## Features
 
